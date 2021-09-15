@@ -12,7 +12,7 @@
 
 | 日期      | 内容                                                         | 视频 | 讲义  |  答疑 |
 | --------- | ------------------------------------------------------------ | --------- | --------- | --------- |
-| 2020.2.28 | 第1讲：一起出发~<br>摘要：为什么学编程？为什么选Python？为什么是我？应该怎么学？<br> ![第一课题图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/master/images/class_1.jpg) | [V1](https://www.bilibili.com/video/BV1mQ4y167q8/) | [L1](http://aicoco.net/s/py1) | [Q1](https://zhuanlan.zhihu.com/p/410262678) |
+| 2020.2.28 | 第1讲：一起出发~<br>摘要：为什么学编程？为什么选Python？为什么是我？应该怎么学？<br> ![第一课题图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/main/images/class_1.jpg) | [V1](https://www.bilibili.com/video/BV1mQ4y167q8/) | [L1](http://aicoco.net/s/py1) | [Q1](https://zhuanlan.zhihu.com/p/410262678) |
 
 
 参考：  
