@@ -18,6 +18,7 @@
 | 2021.10.12 | 第3讲、开始编程<br>摘要：Python程序周边和开发流程，第一个编程案例<br> ![第三课导图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/main/images/class_3.jpg?raw=true) | [V3](https://www.bilibili.com/video/BV1hq4y157eQ/) | [L3](http://aicoco.net/s/py21n03) | [Q3](https://zhuanlan.zhihu.com/p/414950491) |
 | 2021.10.19 | 第4讲、密码生成(上)<br>摘要：密码生成案例讲解，熟悉git使用，代码的逐步重构<br> | [V4](https://www.bilibili.com/video/BV1zr4y1y7gB/) |  | [Q4](https://zhuanlan.zhihu.com/p/423170389) |
 | 2021.10.26 | 第5讲、密码生成(中)<br>摘要：代码的逐步重构，函数化改造<br> | [V5](https://www.bilibili.com/video/BV1nQ4y1q79m/) |  | [Q5](https://zhuanlan.zhihu.com/p/425899836) |
+| 2021.11.1 | 第6讲、密码生成(下)<br>摘要：另外两种代码生成方式实现，命令行参数解析<br> | [6](https://www.bilibili.com/video/BV15R4y1E7vk/) |  | |
 
 
 参考：  
