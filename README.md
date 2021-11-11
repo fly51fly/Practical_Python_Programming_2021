@@ -19,7 +19,7 @@
 | 2021.10.19 | 第4讲、密码生成(上)<br>摘要：密码生成案例讲解，熟悉git使用，代码的逐步重构&nbsp;[代码](https://pastebin.com/wG532L99)<br> | [V4](https://www.bilibili.com/video/BV1zr4y1y7gB/) |  | [Q4](https://zhuanlan.zhihu.com/p/423170389) |
 | 2021.10.26 | 第5讲、密码生成(中)<br>摘要：代码的逐步重构，函数化改造&nbsp;[代码](https://pastebin.com/j86fpHfN)<br> | [V5](https://www.bilibili.com/video/BV1nQ4y1q79m/) |  | [Q5](https://zhuanlan.zhihu.com/p/425899836) |
 | 2021.11.2 | 第6讲、密码生成(下)<br>摘要：另外两种代码生成方式实现，命令行参数解析&nbsp;[代码](https://pastebin.com/i0dGtFae)<br> | [V6](https://www.bilibili.com/video/BV15R4y1E7vk/) | | [Q6](https://zhuanlan.zhihu.com/p/428669602)|
-| 2021.11.9 | 第7讲、一起来抽奖<br>摘要：数据生成、print控制、异常处理、列表排序&nbsp;[代码](https://pastebin.com/xc4CuZ6t)<br> | [V7](https://www.bilibili.com/video/BV1Xb4y187Yw/) | | |
+| 2021.11.9 | 第7讲、一起来抽奖<br>摘要：数据生成、print控制、异常处理、列表排序&nbsp;[代码](https://pastebin.com/xc4CuZ6t)<br> | [V7](https://www.bilibili.com/video/BV1Xb4y187Yw/) | | [Q7](https://zhuanlan.zhihu.com/p/431193350)|
 
 
 参考：  
