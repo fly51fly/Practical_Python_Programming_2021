@@ -20,6 +20,9 @@
 | 2021.10.26 | 第5讲、密码生成(中)<br>摘要：代码的逐步重构，函数化改造&nbsp;[代码](https://pastebin.com/j86fpHfN)<br> | [V5](https://www.bilibili.com/video/BV1nQ4y1q79m/) |  | [Q5](https://zhuanlan.zhihu.com/p/425899836) |
 | 2021.11.2 | 第6讲、密码生成(下)<br>摘要：另外两种代码生成方式实现，命令行参数解析&nbsp;[代码](https://pastebin.com/i0dGtFae)<br> | [V6](https://www.bilibili.com/video/BV15R4y1E7vk/) | | [Q6](https://zhuanlan.zhihu.com/p/428669602)|
 | 2021.11.9 | 第7讲、一起来抽奖<br>摘要：数据生成、print控制、异常处理、列表排序&nbsp;[代码](https://pastebin.com/xc4CuZ6t)<br> | [V7](https://www.bilibili.com/video/BV1Xb4y187Yw/) | | [Q7](https://zhuanlan.zhihu.com/p/431193350)|
+| 2021.11.16 | 第8讲、逻辑猜数字游戏<br>摘要：循环、&nbsp;[代码](https://pastebin.com/tA1UzGQV)<br> | [V8](https://www.bilibili.com/video/BV1yL411u7Uo/) | | [Q8](https://zhuanlan.zhihu.com/p/433896714)|
+| 2021.11.23 | 第9讲、爬虫入门<br>摘要：文本的内容提取，HTML、DOM、xPath基础 | [V9](https://www.bilibili.com/video/BV1Ji4y1o7ss/) | | [Q9](https://zhuanlan.zhihu.com/p/437043847)|
+| 2021.11.30 | 第10讲、爬虫实现<br>摘要：HTTP、网页访问机制、Request和lxml库使用基础 | [V10](https://www.bilibili.com/video/BV1Gb4y1B7xE/) | | |
 
 
 参考：  
