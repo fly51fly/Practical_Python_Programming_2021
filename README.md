@@ -22,7 +22,8 @@
 | 2021.11.9 | 第7讲、一起来抽奖<br>摘要：数据生成、print控制、异常处理、列表排序&nbsp;[代码](https://pastebin.com/xc4CuZ6t)<br> | [V7](https://www.bilibili.com/video/BV1Xb4y187Yw/) | | [Q7](https://zhuanlan.zhihu.com/p/431193350)|
 | 2021.11.16 | 第8讲、逻辑猜数字游戏<br>摘要：循环、&nbsp;[代码](https://pastebin.com/tA1UzGQV)<br> | [V8](https://www.bilibili.com/video/BV1yL411u7Uo/) | | [Q8](https://zhuanlan.zhihu.com/p/433896714)|
 | 2021.11.23 | 第9讲、爬虫入门<br>摘要：文本的内容提取，HTML、DOM、xPath基础 | [V9](https://www.bilibili.com/video/BV1Ji4y1o7ss/) | | [Q9](https://zhuanlan.zhihu.com/p/437043847)|
-| 2021.11.30 | 第10讲、爬虫实现<br>摘要：HTTP、网页访问机制、Request和lxml库使用基础 | [V10](https://www.bilibili.com/video/BV1Gb4y1B7xE/) | | |
+| 2021.11.30 | 第10讲、爬虫实现<br>摘要：HTTP、网页访问机制、Request和lxml库使用基础 | [V10](https://www.bilibili.com/video/BV1Gb4y1B7xE/) | | [Q10](https://zhuanlan.zhihu.com/p/439531518)|
+| 2021.12.7 | 第11讲、爬虫实现II<br>摘要：网页内容的分层解析 | [V11](https://www.bilibili.com/video/BV1mq4y1z7vS/) | | [Q11](https://zhuanlan.zhihu.com/p/442310297)|
 
 
 参考：  
