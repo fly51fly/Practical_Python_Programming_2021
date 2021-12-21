@@ -15,7 +15,7 @@
 | --------- | ------------------------------------------------------------ | --------- | --------- | --------- |
 | 2021.9.14 | 第1讲、一起出发~<br>摘要：为什么学编程？为什么选Python？为什么是我？应该怎么学？<br> ![第一课导图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/main/images/class_1.jpg?raw=true) | [V1](https://www.bilibili.com/video/BV1mQ4y167q8/) | [L1](http://aicoco.net/s/py1) | [Q1](https://zhuanlan.zhihu.com/p/410262678) |
 | 2021.9.28 | 第2讲、编程基础<br>摘要：Python程序的整体框架、构件和周边<br> ![第二课导图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/main/images/class_2.jpg?raw=true) | [V2](https://www.bilibili.com/video/BV1q44y147Kf/) | [L2](http://aicoco.net/s/py21n02) | [Q2](https://zhuanlan.zhihu.com/p/414950491) |
-| 2021.10.12 | 第3讲、开始编程<br>摘要：Python程序周边和开发流程，第一个编程案例<br> ![第三课导图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/main/images/class_3.jpg?raw=true) | [V3](https://www.bilibili.com/video/BV1hq4y157eQ/) | [L3](http://aicoco.net/s/py21n03) | [Q3](https://zhuanlan.zhihu.com/p/414950491) |
+| 2021.10.12 | 第3讲、开始编程<br>摘要：Python程序周边和开发流程，第一个编程案例<br> ![第三课导图](https://github.com/fly51fly/Practical_Python_Programming_2021/blob/main/images/class_3.jpg?raw=true) | [V3](https://www.bilibili.com/video/BV1hq4y157eQ/) | [L3](http://aicoco.net/s/py21n03) | [Q3](https://zhuanlan.zhihu.com/p/420572854) |
 | 2021.10.19 | 第4讲、密码生成(上)<br>摘要：密码生成案例讲解，熟悉git使用，代码的逐步重构&nbsp;[代码](https://pastebin.com/wG532L99)<br> | [V4](https://www.bilibili.com/video/BV1zr4y1y7gB/) |  | [Q4](https://zhuanlan.zhihu.com/p/423170389) |
 | 2021.10.26 | 第5讲、密码生成(中)<br>摘要：代码的逐步重构，函数化改造&nbsp;[代码](https://pastebin.com/j86fpHfN)<br> | [V5](https://www.bilibili.com/video/BV1nQ4y1q79m/) |  | [Q5](https://zhuanlan.zhihu.com/p/425899836) |
 | 2021.11.2 | 第6讲、密码生成(下)<br>摘要：另外两种代码生成方式实现，命令行参数解析&nbsp;[代码](https://pastebin.com/i0dGtFae)<br> | [V6](https://www.bilibili.com/video/BV15R4y1E7vk/) | | [Q6](https://zhuanlan.zhihu.com/p/428669602)|
@@ -24,6 +24,9 @@
 | 2021.11.23 | 第9讲、爬虫入门<br>摘要：文本的内容提取，HTML、DOM、xPath基础 | [V9](https://www.bilibili.com/video/BV1Ji4y1o7ss/) | | [Q9](https://zhuanlan.zhihu.com/p/437043847)|
 | 2021.11.30 | 第10讲、爬虫实现<br>摘要：HTTP、网页访问机制、Request和lxml库使用基础 | [V10](https://www.bilibili.com/video/BV1Gb4y1B7xE/) | | [Q10](https://zhuanlan.zhihu.com/p/439531518)|
 | 2021.12.7 | 第11讲、爬虫实现II<br>摘要：网页内容的分层解析 | [V11](https://www.bilibili.com/video/BV1mq4y1z7vS/) | | [Q11](https://zhuanlan.zhihu.com/p/442310297)|
+| 2021.12.14 | 第12讲、爬虫实现III<br>摘要：Ajax数据的获取 | [V12](https://www.bilibili.com/video/BV1Hb4y1q7ae/) | | [Q12](https://zhuanlan.zhihu.com/p/445226309)|
+| 2021.12.21 | 第13讲、正则表达式<br>摘要：正则表达式及其在爬虫中的应用 | [V13](https://www.bilibili.com/video/BV14r4y1U7PF/) | | |
+
 
 
 参考：  
